@@ -1,1 +1,2 @@
-# Take payments IRL with Solana Pay
+# Take payments IRL with Solana Pay 
+#rust
